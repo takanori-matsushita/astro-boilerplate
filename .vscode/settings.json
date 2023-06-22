@@ -1,0 +1,10 @@
+{
+  "eslint.validate": [
+    "javascript",
+    "astro",
+    "typescript",
+  ],
+  "editor.formatOnSave": false,
+  "javascript.format.enable": false,
+  "javascript.validate.enable": false,
+}
